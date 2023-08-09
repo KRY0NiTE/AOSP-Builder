@@ -2,7 +2,7 @@ env:
     MANIFEST: https://github.com/PixelExperience/manifest -b thirteen-plus
     DEVICE: joyeuse
     OEM: xiaomi
-    DT_LINK: https://github.com/nekoshirro/PixelExperience-Thirteen.git -b device
+    DT_LINK: https://github.com/KRY0NiTE/device_xiaomi_joyeuse.git -b device
     DT_PATH: device/$OEM/$DEVICE
     VT_LINK: https://github.com/nekoshirro/vendor_xiaomi_joyeuse.git
     VT_PATH: vendor/$OEM/$DEVICE
