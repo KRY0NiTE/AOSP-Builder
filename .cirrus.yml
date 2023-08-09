@@ -4,9 +4,9 @@ env:
     OEM: xiaomi
     DT_LINK: https://github.com/KRY0NiTE/device_xiaomi_joyeuse.git -b device
     DT_PATH: device/$OEM/$DEVICE
-    VT_LINK: https://github.com/nekoshirro/vendor_xiaomi_joyeuse.git
+    VT_LINK: https://github.com/KRY0NiTE/vendor_xiaomi_joyeuse.git
     VT_PATH: vendor/$OEM/$DEVICE
-    KT_LINK: https://github.com/nekoshirro/android_kernel_xiaomi_sm6250.git
+    KT_LINK: https://github.com/KRY0NiTE/android_kernel_xiaomi_sm6250.git
     PLATFORM: sm6250
     KT_PATH: kernel/$OEM/$PLATFORM
     TARGET: bacon
